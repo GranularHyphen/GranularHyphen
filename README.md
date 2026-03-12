@@ -1,22 +1,23 @@
 # Hi, I’m Ethan 👋
 
-I’m a high school student and aspiring engineer with a strong interest in **aerospace systems, embedded software, and the internet of vehicles**. I enjoy building low-level software that interfaces with hardware and thinking about how complex systems behave under real-world constraints.
+I’m a high school student and aspiring engineer with a strong interest in **embedded software, and the internet of vehicles**. I enjoy building low-level software that interfaces with hardware and thinking about how complex systems behave under real-world constraints.
 
 My technical background started in software and security fundamentals, but through robotics and embedded projects I’ve grown increasingly interested in **safety-critical and performance-driven systems**, especially those found in aerospace and autonomous platforms.
 
 ---
 
 ## 🔧 Technical Interests
-- Aerospace & systems engineering  
+- Systems engineering  
 - Embedded systems and low-level programming  
 - Robotics and real-time control  
-- Simulation, modeling, and system reliability  
+- Simulation, modeling, and system reliability
+- Geology
 
 ---
 
 ## 💻 Languages & Tools
-- **Languages:** Java, C, Python, JavaScript  
-- **Tools:** Linux CLI, Git, Google Suit, Microsoft 365, Cisco Packet Tracer
+- **Languages:** Kotlin, C, Python  
+- **Tools:** Git, Google Suit, Microsoft 365, Cisco Packet Tracer
 - **Platforms:** Embedded systems, robotics control systems  
 
 ---
